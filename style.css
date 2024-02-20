@@ -41,6 +41,10 @@ body{
     animation: obstacleAni 5s linear infinite;
 }
 .gameOver{
+    position: relative;
+    top: 63px;
+    font-size: 53px;
+    text-align: center;
     visibility: hidden;
 }
 @keyframes man{
